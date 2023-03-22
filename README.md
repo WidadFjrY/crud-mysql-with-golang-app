@@ -29,4 +29,4 @@ This application provides the following features:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/WidadFjrY/crud-mysql-with-golang-app/blob/master/LICENSE) file for details.
