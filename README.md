@@ -11,9 +11,10 @@ To get started, follow these instructions:
 `
 2. Navigate to the project directory:
    `cd crud-mysql-with-golang-app`
-3. Create a database named **todo_list** in your MySQL database.
-4. Run the SQL script **db/todo_list.sql** to create the required table.
-5. Run the following command to start the application:
+3. Install library driver MySQL using the following command: `go get -u https://github.com/go-sql-driver/mysql`
+4. Create a database named **todo_list** in your MySQL database.
+5. Run the SQL script **db/todo_list.sql** to create the required table.
+6. Run the following command to start the application:
    `go run main.go`
 
 ## Features
